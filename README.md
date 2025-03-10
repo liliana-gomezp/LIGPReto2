@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 Hola soy la rama task4 y vengo de la rama feature2
 =======
@@ -10,3 +11,6 @@ Hola soy rama task1 y vengo de la rama feature1
 
 Este es un hotfix crítico para feature1   
 >>>>>>> 990837a (Commit de hotfix1)
+=======
+Hola soy la rama task4 y vengo de la rama feature2
+>>>>>>> task4
